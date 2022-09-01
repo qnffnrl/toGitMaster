@@ -1,2 +1,3 @@
 Git Command that can understand monkey
 Add Modified things
+인덱스 상태 기록하기
