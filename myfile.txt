@@ -2,4 +2,3 @@ Git Command that can understand monkey
 Add Modified things
 hello : 원격 저장소의 내용을 가져오기
 add : kakao
-asdasd
